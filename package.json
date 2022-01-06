@@ -172,6 +172,10 @@
                 "default": "Sign up for more like this.",
                 "group": "post"
             },
+            "GraphComments ID": {
+                "type": "text",
+                "default": "graphcommentId"
+            },
             "show_recent_posts": {
                 "type": "boolean",
                 "default": true,
