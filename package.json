@@ -172,9 +172,9 @@
                 "default": "Sign up for more like this.",
                 "group": "post"
             },
-            "GraphComments ID": {
+            "GraphCommentID": {
                 "type": "text",
-                "default": "graphcommentId"
+                "default": "LittleBigFrog"
             },
             "show_recent_posts": {
                 "type": "boolean",
