@@ -164,7 +164,7 @@
                     "Bottom of post",
                     "None"
                 ],
-                "default": "Footer",
+                "default": "None",
                 "group": "post"
             },
             "email_signup_text": {
@@ -172,9 +172,9 @@
                 "default": "Sign up for more like this.",
                 "group": "post"
             },
-            "GraphCommentID": {
+            "GraphComments ID": {
                 "type": "text",
-                "default": "LittleBigFrog"
+                "default": "graphcommentId"
             },
             "show_recent_posts": {
                 "type": "boolean",
